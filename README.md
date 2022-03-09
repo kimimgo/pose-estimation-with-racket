@@ -25,3 +25,9 @@ sh test-run.sh
 
 ```
 
+## Prerequisite [TBD]
+
+1. data
+2. pretrained-model
+3. yolo weight
+
